@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    background-color: black;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    padding: 20%;
+}
+
+.aba{
+    display: flex;    
+    list-style-type: none;
+    text-decoration: none;    
+    float: left;
+}
+
+.acesso{
+    display: flex;    
+    float:right;
+    margin-left:36% ;
+}
+ header li{
+    list-style-type: none;
+    text-decoration: none;    
+    float: left;
+    margin-inline: 30%;
+}
+
+section ul{
+    display: flex;
+    list-style-type: none;
+}
+footer{
+    text-align: center;
+}
+
+section img{
+    background-color: gray;
+    padding: 10%;
+    padding-bottom:50% ;
+    border-radius: 20px;
+
+}
+
+section li{
+    padding: 3%; 
+}
